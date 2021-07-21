@@ -8,7 +8,7 @@
 //hecho de que cuentas con la base programadora.
 
 //Definición de pines
-#define LAMP 4 //Se selecciona 
+#define LAMP 5 //Se selecciona en el documento original el pin 4, mismo que fue cambiado por el pin 5 al realizar una prueba de uso de GitHub Desktop 
 
 //Inicialización del programa
 void setup() //Estructura principal
